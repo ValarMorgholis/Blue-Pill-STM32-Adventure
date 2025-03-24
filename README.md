@@ -14,8 +14,7 @@
 8. 10K Resistor (Pull down)
 
 
-## You can see the full schematic here on the Wokwi simulator and actually run the program and interact with the button.
-[Click here](https://wokwi.com/projects/392431636992242689)
 
-[Main_Menu_Pic](https://biaupload.com/do.php?imgf=org-ed88b0bd3f6e2.jpg)
-[Circut_Pic](https://biaupload.com/do.php?imgf=org-7cc665d1ce5d1.png)
+
+[Video of Circut](https://s33.picofile.com/file/8483547818/video_2025_03_25_02_19_31.mp4.html)
+
